@@ -6,9 +6,10 @@ There are 2 parts to this model as explained here and in the demo interface vedi
 The \Real-ESRGAN\datasets\DF2K is the location to the few shot learning inputs and resizing (10 pairs of lr and corresponding hr with meta data present in this folder)
 
 3- The Resolution enhancement fine tuned model is in Few_Shot_Learning Folder- enhanced intermediate image from Light_Enhanceemnt model has to be run locally on git_bash as the following:
-cd <path to few_shot_model file>
+
+cd  <path to <few_shot_model >>
 
 streamlit run app.py
 
-This leads to the final interface where the .pth file uploaded in git(as training mentioned in the drive link attached and the code walktrough vedio)
+This leads to the final interface where the net_g.pth file has to be uploaded (as training mentioned in the drive link attached and the code walktrough vedio)
 
