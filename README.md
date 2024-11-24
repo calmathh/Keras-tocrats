@@ -11,5 +11,5 @@ cd  <path to <few_shot_model >>
 
 streamlit run app.py
 
-This leads to the final interface where the net_g.pth file has to be uploaded (as training mentioned in the drive link attached and the code walktrough vedio)
+This leads to the final interface where the net_g.pth file has to be uploaded (as training mentioned in the drive link attached-https://drive.google.com/file/d/1ptjkaP6cGFuzqcnCbrKAoFxyuG8Y4tfY/view?usp=sharing and the code walktrough vedio)
 
