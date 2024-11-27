@@ -13,4 +13,4 @@ streamlit run app.py
 
 This leads to the final interface where the net_g.pth file has to be uploaded (as training mentioned in the drive link attached-https://drive.google.com/file/d/1ptjkaP6cGFuzqcnCbrKAoFxyuG8Y4tfY/view?usp=sharing and the code walktrough vedio)
 
-NOVELTY ASSESSMENT: for this we have trained the model furthur and build a single merged interface you can find the link to that here- https://github.com/jkasb7310/fewshot_image_enhancement.git
+NOVELTY ASSESSMENT: for this we have trained the model furthur and built a single merged interface you can find the link to that here- https://github.com/jkasb7310/fewshot_image_enhancement.git
